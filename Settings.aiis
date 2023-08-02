@@ -219,8 +219,20 @@
     "DefaultDesktopApplicationArgs": null,
     "UseLegacySilverlightFindLogic": false,
     "ProjectGuid": "117fcab1-04d4-4bfe-99f2-ce84d79fea8b",
-    "SourceControlRepository": null,
-    "IsOnline": false,
+    "SourceControlRepository": {
+      "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitRepositoryInfo",
+      "__value": {
+        "RemotePath": "https://github.com/laikas123/TestRetelik.git",
+        "ServerInfo": {
+          "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitServerInfo",
+          "__value": {
+            "ServerName": "https://github.com/laikas123/TestRetelik.git"
+          }
+        },
+        "ServerType": 2
+      }
+    },
+    "IsOnline": true,
     "ProjectLanguage": 2,
     "ProjectReferences": [
       "System",
